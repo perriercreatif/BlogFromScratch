@@ -1,4 +1,4 @@
-![Logo Perriercreatif](https://bitbucket.org/perriercreatif/simplononline/src/master/FolioPerrierCreatif/images/logoperriercreatiffinal.png)  
+![Logo Perriercreatif](http://perriercreatif.free.fr/images/logoperriercreatiffinal.png)  
 
 Module Simplon Online
 ========
@@ -18,15 +18,15 @@ Notice d’utilisation
 
 * Créer  votre base de données
 
-![image01](https://github.com/perriercreatif/BlogFromScratch/tree/master/blogFromScratch/images/readme01.png)
+![image01](blogFromScratch/images/readme01.png)
 
 * Importer post.sql 
 
-![image02](https://github.com/perriercreatif/BlogFromScratch/tree/master/blogFromScratch/images/readme02.png)
+![image02](blogFromScratch/images/readme02.png)
 
 * Changer les ligne suivante avec vos données personnel le fichier BDDConnect.php dans le dossier Controller:
 
-![image03](https://github.com/perriercreatif/BlogFromScratch/tree/master/blogFromScratch/images/readme03.png)
+![image03](blogFromScratch/images/readme03.png)
 
 ```
 class BDDconnect
@@ -39,14 +39,14 @@ class BDDconnect
 
 * Tapez localhost dans votre navigateur
   
-  ![image04](https://github.com/perriercreatif/BlogFromScratch/tree/master/blogFromScratch/images/readme04.png)
+  ![image04](blogFromScratch/images/readme04.png)
 
 * Allez chercher le dossier blogFromScratch
 
-![image05](https://github.com/perriercreatif/BlogFromScratch/tree/master/blogFromScratch/images/readme05.png)
+![image05](blogFromScratch/images/readme05.png)
 
 * Cliqué sur Dashboard et connectez-vous avec ces identifiants (Vous pouvez les changer dans le dossier Controller le fichier login.php)
-![image06](https://github.com/perriercreatif/BlogFromScratch/tree/master/blogFromScratch/images/readme05.png)
+![image06](blogFromScratch/images/readme05.png)
 
 ```
     define('LOGIN','superelien');
