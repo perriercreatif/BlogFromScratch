@@ -5,27 +5,27 @@ Module Simplon Online
 ========
 
 
-Blog PHP avec une architecture MVC (Modèle - Vue - Contrôleur) et en OOP (Object Oriented Programming)!
+PHP blog with an MVC architecture (Model - View - Controller) and OOP (Object Oriented Programming)!
 
 
-Sommaire
+Summary
 --------
-* Notice d’utilisation
+* Operating instructions
 
 
-Notice d’utilisation
+instructions
 --------------------
-* Placer le dossier dans votre dossier www puis activer votre serveur (WAMP, LAMP...)
+* Place the folder in your www folder and then activate your server (WAMP, LAMP...)
 
-* Créer  votre base de données
+* Create your database
 
 ![image01](blogFromScratch/images/readme01.png)
 
-* Importer post.sql 
+* Import post.sql 
 
 ![image02](blogFromScratch/images/readme02.png)
 
-* Changer les ligne suivante avec vos données personnel le fichier BDDConnect.php dans le dossier Controller:
+* Change the following lines with your personal data the file BDDConnect.php in the Controller folder:
 
 ![image03](blogFromScratch/images/readme03.png)
 
@@ -33,20 +33,20 @@ Notice d’utilisation
 class BDDconnect
 {
     ...
-    private $IdMyAdmin = 'vosIdentifiantPhpMyAdmin'; 
-    private $PwdMyAdmin = 'votreMotDePasse';
+    private $IdMyAdmin = 'yourPhpMyAdminID'; 
+    private $PwdMyAdmin = 'yourPassword';
     ...
 ```
 
-* Tapez localhost dans votre navigateur
+* Type localhost in your browser
   
   ![image04](blogFromScratch/images/readme04.png)
 
-* Allez chercher le dossier blogFromScratch
+* Go get the blogFromScratch folder
 
 ![image05](blogFromScratch/images/readme05.png)
 
-* Cliqué sur Dashboard et connectez-vous avec ces identifiants (Vous pouvez les changer dans le dossier Controller le fichier login.php)
+* Click on Dashboard and connect with these login details (You can change them in the Controller folder in the login.php file)
 ![image06](blogFromScratch/images/readme06.png)
 
 ```
@@ -55,5 +55,5 @@ class BDDconnect
 
 ```
 
-Voilà maintenant bous pouvais explorer le blog créé, modifier où supprimer à votre guise.
+Now here you could explore the blog created, modify or delete as you wish.
 
