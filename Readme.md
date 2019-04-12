@@ -1,4 +1,5 @@
 ![Logo Perriercreatif](http://perriercreatif.free.fr/images/logoperriercreatiffinal.png)  
+by Perriercreatif
 
 Module Simplon Online
 ========
