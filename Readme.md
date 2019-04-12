@@ -46,7 +46,7 @@ class BDDconnect
 ![image05](blogFromScratch/images/readme05.png)
 
 * Cliqué sur Dashboard et connectez-vous avec ces identifiants (Vous pouvez les changer dans le dossier Controller le fichier login.php)
-![image06](blogFromScratch/images/readme05.png)
+![image06](blogFromScratch/images/readme06.png)
 
 ```
     define('LOGIN','superelien');
