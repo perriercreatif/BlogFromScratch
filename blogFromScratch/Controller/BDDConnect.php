@@ -3,7 +3,7 @@
 
 class BDDconnect
 {
-	private $BDDName = 'posts';
+    private $BDDName = 'posts';
   private $TableName = 'posts';
   private $IdMyAdmin = 'root';
   private $PwdMyAdmin = 'FUdYla3dPuA8u2qh';
